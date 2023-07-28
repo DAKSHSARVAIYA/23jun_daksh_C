@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main ()
+{
+    int a;
+	printf("enter the number:");
+	scanf("%d",&a );
+	printf("square of %d",a*a);
+	printf("\ncude of %d",a*a*a);
+}
+
